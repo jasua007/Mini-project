@@ -1,0 +1,4 @@
+1. extract zip file di htdoc xampp
+2. masuk ke localhost/phpmyadmin terus bikin database dengan nama "flight_booking_ticket_app"
+3. terus pilih tab import, terus pilih file "flight_booking_ticket_app.sql" di folder database SQL
+4. enjoy
